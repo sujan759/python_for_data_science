@@ -3,7 +3,7 @@ friend = "Kanha"
 anotherfriend = "ashis"
 print("Hellow " +name)
 print("work it")
-
+# 
 # Accessing Charecter of str
 print(name[2])
 print(friend[2])
