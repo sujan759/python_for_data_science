@@ -9,7 +9,7 @@ print(a.replace("Sujan", "John"))
 print(a.split(" "))
 blogHeading = "introduction tO Life story"
 print(blogHeading.capitalize())
-
+# he
 
 str1 = "Welcome to the Console !!!"
 print(str1.endswith("!!!"))
