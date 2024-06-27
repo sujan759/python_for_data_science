@@ -25,3 +25,4 @@ dict3={"Name":"Ashish","Regd No":25733,"Branch":"CSE"}
 dict4={"Name":"Subhm","Regd No":56233,"Branch":"CSE"}
 dict5={"Name":"Ram","Regd No":266533,"Branch":"CSE"}
 print(list)
+# j
