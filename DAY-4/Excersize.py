@@ -4,6 +4,7 @@
 
 # for i in range
 # Create a set 'setn' with elements 5, 10, 3, 15, 2, and 20.
+# import numpy as np
 set1 = {45, 160, 30, 105, 2,420}
 
 print("Original set elements:")
