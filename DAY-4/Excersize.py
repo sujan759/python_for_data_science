@@ -19,10 +19,10 @@ print(max(set1))
 print("\nMinimum value of the said set:")
 print(min(set1)) 
 
-list=[ dict1,dict2,dict3,dict4,dict5]
-dict1={"Name":"sujan","Regd No":23233,"Branch":"CSE"}
-dict2={"Name":"Raja","Regd No":23433,"Branch":"CSE"}
-dict3={"Name":"Ashish","Regd No":25733,"Branch":"CSE"}
-dict4={"Name":"Subhm","Regd No":56233,"Branch":"CSE"}
-dict5={"Name":"Ram","Regd No":266533,"Branch":"CSE"}
-print(list)
+# list=[ dict1,dict2,dict3,dict4,dict5]
+# dict1={"Name":"sujan","Regd No":23233,"Branch":"CSE"}
+# dict2={"Name":"Raja","Regd No":23433,"Branch":"CSE"}
+# dict3={"Name":"Ashish","Regd No":25733,"Branch":"CSE"}
+# dict4={"Name":"Subhm","Regd No":56233,"Branch":"CSE"}
+# dict5={"Name":"Ram","Regd No":266533,"Branch":"CSE"}
+# print(list)
