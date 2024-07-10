@@ -7,4 +7,3 @@ avg=lambda x,y,z:(x+y+z)/3
 print(double(4))
 print(cube(4))
 print(avg(4,2,5))
-# 
