@@ -26,3 +26,4 @@ def mysum (x,y):
     return x+y
 sum=reduce(mysum,num)
 print(sum)
+# yuk
